@@ -6460,11 +6460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ajhal\\Documents\\BYU Idaho 2025-2026\\CSE 325 - .NET Software Development - Winter 2026\\Week_02\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\ajhal\\Documents\\BYU Idaho 2025-2026\\CSE 325 - .NET Software Development - Winter 2026\\Week_02\\CSE-325\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\ajhal\\Documents\\BYU Idaho 2025-2026\\CSE 325 - .NET Software Development - Winter 2026\\Week_02\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\ajhal\\Documents\\BYU Idaho 2025-2026\\CSE 325 - .NET Software Development - Winter 2026\\Week_02\\CSE-325\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\ajhal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ajhal\\Documents\\BYU Idaho 2025-2026\\CSE 325 - .NET Software Development - Winter 2026\\Week_02\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Users\\ajhal\\Documents\\BYU Idaho 2025-2026\\CSE 325 - .NET Software Development - Winter 2026\\Week_02\\CSE-325\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ajhal\\AppData\\Roaming\\NuGet\\NuGet.Config"
